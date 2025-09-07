@@ -12,3 +12,9 @@ To analyze coffee sales data and uncover customer behavior, product trends, and 
 * **Customer Retention Rate** using loyalty card data.
 * **Product Profitability** by analyzing price and cost structure.
 
+## Process
+* Collected and structured data across orders, customers, and products.
+* Cleaned data by handling missing values and ensuring consistency.
+* Analyzed sales trends using pivot tables and charts.
+* Identified customer behavior, product performance, and regional patterns.
+* Designed a dashboard to visualize key insights for business decisions.
