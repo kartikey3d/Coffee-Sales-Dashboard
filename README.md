@@ -1,6 +1,10 @@
 # Coffee-Sales-Analysis (Interactive Dashboard creation using MS Excel)
 Data-driven insights into coffee sales and customer behavior, aimed at improving marketing strategies and operational efficiency.
 
+Here’s my video explanation of the Coffee Sales Dashboard:  
+[Watch the video on LinkedIn](https://www.linkedin.com/posts/kartikey-chandel_dataanalytics-excel-dashboard-activity-7371853670805729281-Whjo)
+
+
 ## Project Objective
 To analyze coffee sales data and uncover customer behavior, product trends, and regional patterns. The goal is to provide actionable insights that help improve marketing, pricing, and customer retention using Excel’s analytical tools.
 
